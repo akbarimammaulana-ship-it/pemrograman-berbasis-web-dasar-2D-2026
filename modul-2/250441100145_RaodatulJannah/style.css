@@ -1,0 +1,50 @@
+.poster-container {
+    background: linear-gradient(rgb(250, 249, 249), rgb(222, 79, 103));
+    height: 600px;
+    overflow: hidden;
+    font-family: 'Serif', Georgia, sans-serif;
+    color: #A64B5E; 
+}
+
+.teks-judul {
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.judul{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.judul2{
+    text-align: center; 
+    font-style: italic;
+    font-size: 30px;  
+}
+    
+.product-img {
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+    filter: drop-shadow(10px 10px 20px rgba(0,0,0,0.2));
+}
+
+.tombol {
+    color: white;
+    margin-top: 10px;
+    padding: 10px 8px;
+    background-color: rgb(239, 73, 101);
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.tombol:hover{
+    color: white;
+    margin-top: 10px;
+    padding: 10px 8px;
+    background-color: rgb(184, 70, 89);
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center; 
+}
